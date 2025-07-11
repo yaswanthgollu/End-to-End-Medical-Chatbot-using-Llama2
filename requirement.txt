@@ -1,5 +1,6 @@
 sentence-transformers==2.2.2
 ctransformers==0.2.5
-pinecone-client
+pinecone
 langchain==0.0.225
 flask
+pypdf
